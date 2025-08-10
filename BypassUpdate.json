@@ -1,6 +1,6 @@
 {
-    "version": ".0.0",
-    "update": "2024-06-07",
-    "changelog": "Initial release",
-    "download": "fuck"
+    "version": "v1.0",
+    "versionCode": 1000,
+    "zipUrl": "https://github.com/hetpatel47300/BullBypass/releases/download/BullTeamOfficial/Bull.Team.Bypass-v1.0.zip",
+    "changelog": "https://raw.githubusercontent.com/hetpatel47300/bullbypass/main/BypassUpdate.json"
 }
